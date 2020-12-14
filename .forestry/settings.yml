@@ -68,12 +68,15 @@ sections:
   match: "**/*"
   templates:
   - notice
+- type: heading
+  label: Executive Council
 - type: directory
-  path: content/english/teacher
+  path: content/english/exco
   label: Executive Council (en)
   create: all
   match: "**/*"
   templates:
+  - exco
   - teacher
 - type: directory
   path: content/french/teacher
