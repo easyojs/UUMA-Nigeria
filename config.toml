@@ -93,8 +93,8 @@ weight = 5
 # footer menu
 
 [[menu.footer]]
-name = "teacher"
-URL = "teacher"
+name = "Executive Council"
+URL = "exco"
 
 [[menu.footer]]
 name = "notice"
@@ -105,7 +105,7 @@ name = "event"
 URL = "event"
 
 [[menu.footer]]
-name = "scholarship"
+name = "scholarships & Grants"
 URL = "scholarship"
 
 [[menu.footer]]
