@@ -1,5 +1,5 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "Call for Applications - Academics Programs"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -11,8 +11,8 @@ image: "images/blog/post-2.jpg"
 # post author
 author: "Mark Dinn"
 # taxonomy
-categories: ["Mathmatics Learning"]
-tags: ["Advice", "Rules"]
+categories: ["Professional Announcements"]
+tags: ["PhDs", "Masters", "Post Docs"]
 # type
 type: "post"
 ---
