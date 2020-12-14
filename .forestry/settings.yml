@@ -68,18 +68,16 @@ sections:
   match: "**/*"
   templates:
   - notice
-- type: heading
-  label: Teacher
 - type: directory
   path: content/english/teacher
-  label: Teacher (en)
+  label: Executive Council (en)
   create: all
   match: "**/*"
   templates:
   - teacher
 - type: directory
   path: content/french/teacher
-  label: Teacher (fr)
+  label: Executive Council (fr)
   create: all
   match: "**/*"
   templates:
