@@ -56,8 +56,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "teacher"
-  URL = "teacher"
+  name = "Executive Council"
+  URL = "exco"
 
   [[menu.main]]
   parent = "Pages"
@@ -71,7 +71,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "scholarship"
+  name = "scholarships & Grants"
   URL = "scholarship"
 
   [[menu.main]]
