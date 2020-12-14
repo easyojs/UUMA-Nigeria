@@ -37,22 +37,6 @@ sections:
   templates:
   - author
 - type: heading
-  label: Course
-- type: directory
-  path: content/english/course
-  label: Course (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - course
-- type: directory
-  path: content/french/course
-  label: Course (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - course
-- type: heading
   label: Notice
 - type: directory
   path: content/english/notice
