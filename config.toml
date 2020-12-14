@@ -185,7 +185,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright © 2020, UUM Nigeria Alumni Association. All Rights Reserved. All Trademarks referred to are the property of their respective owners."
 
 
 ################################### French language #####################################
@@ -196,4 +196,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright © 2020, UUM Nigeria Alumni Association. All Rights Reserved. All Trademarks referred to are the property of their respective owners."
