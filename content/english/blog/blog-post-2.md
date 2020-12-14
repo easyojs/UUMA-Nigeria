@@ -1,5 +1,5 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "Job Postings for Assistant/Associate/Professor of Management"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -11,8 +11,8 @@ image: "images/blog/post-2.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["Education System"]
-tags: ["Education", "Automation"]
+categories: ["Job Openings"]
+tags: ["Academic", "Administration"]
 # type
 type: "post"
 ---
